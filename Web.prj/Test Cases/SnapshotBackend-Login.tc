@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SnapshotBackend-Login</name>
+   <tag></tag>
+   <comment>Given input is correct, successfully logged in.
+Un correct, Ps empty: message displayed as 'Required'
+Un empty, Ps correct: message displayed as 'Required'
+Un incorrect, Ps empty: message displayed as 'Required' at Ps field
+Un empty, Ps incorrect: message displayed as 'Required' at Un field
+Un, Ps both empty: message displayed as 'Required' at both fields
+Un, ps both incorrect: Message displayed as 'Username/password is invalid'
+Un correct, ps incorrect: message displayed as &quot;Username/password is invalid&quot;
+Un incorrect, Ps correct: message displayed as 'Username/password is invalid'</comment>
+   <testCaseGuid>950fcdfe-d7ef-4821-b50b-8a1b684473ae</testCaseGuid>
+</TestCaseEntity>
