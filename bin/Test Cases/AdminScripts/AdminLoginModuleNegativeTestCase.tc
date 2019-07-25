@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminLoginModuleNegativeTestCase</name>
+   <tag></tag>
+   <comment>Logout Successful</comment>
+   <testCaseGuid>ebc64ca9-e643-4c1f-8662-781991e475fe</testCaseGuid>
+</TestCaseEntity>

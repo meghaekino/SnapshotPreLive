@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create User</name>
+   <name>LoginModuleNegativeTestCase</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>46f1954b-d644-4548-9f49-933ede34f528</testCaseGuid>
+   <testCaseGuid>fde62a65-84d1-4ada-94a1-f6050ad16423</testCaseGuid>
 </TestCaseEntity>
- 

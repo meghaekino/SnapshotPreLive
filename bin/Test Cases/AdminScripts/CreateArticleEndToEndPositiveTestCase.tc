@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create User</name>
+   <name>CreateArticleEndToEndPositiveTestCase</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>46f1954b-d644-4548-9f49-933ede34f528</testCaseGuid>
+   <testCaseGuid>1ea490e5-fa6f-4796-bf82-955e2c55c02f</testCaseGuid>
 </TestCaseEntity>
- 

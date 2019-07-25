@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create User</name>
+   <name>LoginModuleFacebook</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>46f1954b-d644-4548-9f49-933ede34f528</testCaseGuid>
+   <testCaseGuid>a6e0c82f-b276-48a3-a867-0d8832bf1384</testCaseGuid>
 </TestCaseEntity>
- 
