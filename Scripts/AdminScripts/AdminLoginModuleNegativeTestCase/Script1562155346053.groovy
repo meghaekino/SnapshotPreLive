@@ -15,7 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://snapshotstagingadmin.havasstaging.com/user/login')
+WebUI.navigateToUrl('http://snapshotstagingadmin.havasstaging.com/user/login1')
 
 WebUI.maximizeWindow()
 
